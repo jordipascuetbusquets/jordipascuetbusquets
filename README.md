@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python, Java Script and html
 - 💞️ I’m looking to collaborate on projects
+- I speak english, spanish, catalan, portuguese and basic french.
 - 📫 How to reach me: jordipascuetbusquets@gmail.com
 
 <!---
